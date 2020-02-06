@@ -39,7 +39,7 @@ home = [ "HTML", "RSS", "JSON"]
   [[menu.shortcuts]] 
 name = "<i class='fab fa-github'></i> Ссылка на репозиторий"
 identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+url = "https://github.com/surepu/Styleguide"
 weight = 10
 
 [[menu.shortcuts]]
@@ -50,7 +50,7 @@ weight = 11
 [[menu.shortcuts]]
 name = "<i class='fas fa-layer-group'></i> Прототип в ProtoPie"
 identifier = "hugodoc"
-url = "https://gohugo.io/"
+url = "https://cloud.protopie.io/p/016be092-130c-145d-9583-4f4487bb0e59"
 weight = 12
 
 [[menu.shortcuts]]
