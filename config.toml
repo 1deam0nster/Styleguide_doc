@@ -42,6 +42,7 @@ identifier = "ds"
 url = "https://github.com/surepu/Styleguide"
 weight = 10
 
+
 [[menu.shortcuts]]
 name = "<i class='fab fa-figma'></i> Диазайн макеты Figma"
 url = "https://www.figma.com/file/vTdR6OCVnr5sIgRknoagk1/%D0%A4%D0%A1%D0%A1%D0%9F?node-id=2789%3A2000"
@@ -55,6 +56,6 @@ weight = 12
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-file-word'></i> Документация"
-url = "https://gohugo.io/"
+url = "https://docs.google.com/document/d/1ZWmzl87YqWkZ-AfeizGLBtLc0dFPCS_DrGzJR95XD6U/edit#"
 weight = 13
 
