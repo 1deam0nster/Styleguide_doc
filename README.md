@@ -1,2 +1,2 @@
 # Styleguide
-https://gohugo.io/getting-started/quick-start/
+https://gohugo.io/getting-started/quick-start/# hugo_styleguide
